@@ -1,4 +1,4 @@
-# Curso Git/GitHub,!
+# Curso Git/GitHub!
 # Aprendendo Markdown
 # T NV1 Primeiro Repositorio do curso de Git e GitHub
 
